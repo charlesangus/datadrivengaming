@@ -2,13 +2,16 @@
 format: Markdown
 ...
 
-# Welcome to Gitit!
+# Welcome to RPG Hard Data!
 
-This is the front page of your new gitit wiki.  You can edit this
-page by clicking on the "edit" tab at the top of the screen.
-For instructions on how to make a link to another wiki page, see [the
-Help page](Help#wiki-links). To create a new wiki page, just create a
-link to it and follow the link.
+In designing pen and paper RPGs, it is useful to have access to hard data to ensure the game's model of reality is sensible and gives believable results. To that end, this wiki is designed as a clearinghouse for hard data useful for modeling and checking models of reality in RPGs.
+
+# Help
+
+This wiki is using the "gitit" wiki platform.
+What that means for you is pages are edited in the simple and
+attractive Pandoc Markdown flavour, rather than the nasty syntax
+used by MediaWiki and other wiki software.
 
 Help is always available through the "Help" link in the sidebar.
 More details on installing and configurating gitit are available
