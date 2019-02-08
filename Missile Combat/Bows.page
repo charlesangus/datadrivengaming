@@ -1,0 +1,43 @@
+# Archery Results
+
+## Braintree Bowmen
+
+[Braintree Bowmen](http://www.braintreebowmen.co.uk/archery-information/classifications/longbow/longbow-senior) helpfully lists classifications for longbow shooting, which are reproduced below:
+
+### Imperial York Round
+
+3rd Class 2nd Class 1st Class Bowman    Master Bowman Grandmaster Bowman
+--------- --------- --------- --------- ------------- ------------------
+46        89        142       236       362           450
+
+### FITA 70m ("720 Round")
+
+3rd Class 2nd Class 1st Class Bowman    Master Bowman Grandmaster Bowman
+--------- --------- --------- --------- ------------- ------------------
+31        61        98        (157)     (243)         (298)
+
+(Values in parentheses were converted using [Archery Score Pad](https://archeryscorepad.com/ratings.php?round1=15&round2=17&round3=15&round4=15&submit=Compare))
+
+# Analysis Tools
+
+## Archery Score Conversion
+
+This tool can convert archery scores from a "720 round" to to-hit percentages for a given range and target diameter. With this tool, you can calibrate your archery model with real-world data from archery tournaments.
+
+[archery_score_conversion](https://github.com/charlesangus/archery_score_conversion)
+
+# Analysis Articles
+
+## Spells and Steel
+
+Charles Angus outlines a method of analyzing the scores from Braintree Bowmen, and comes up with a model using constant modifiers and range increments which vary with skill.
+
+https://spellsandsteel.blogspot.com/2018/08/archery-variable-range-increments.html
+
+https://spellsandsteel.blogspot.com/2018/08/archery-towards-foundation.html
+
+## Delta's D&D Hotspot
+
+Delta has done quite a number of useful articles analyzing trajectory and accuracy of bow shooting.
+
+http://deltasdnd.blogspot.com/2014/04/a-model-of-archery-for-d.html
