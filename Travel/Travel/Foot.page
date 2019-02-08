@@ -2,8 +2,14 @@
 
 # Analysis
 
+# Models
+
 ## Naismith's Rule
 
-Naismith's Rule is a tool to estimate the length of a hike which takes into account the vertical ascent.
+Naismith's Rule is a tool to estimate the length of a hike which takes into account the vertical ascent. Naismith's Rule states "allow 1 hour per 3 miles and 1 hour per 2000ft of ascent".
 
-$\frac{d}{8 * a}\div{}3mph = T$
+### Tranter
+
+### Aitken
+
+### Langmuir
